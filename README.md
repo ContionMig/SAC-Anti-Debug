@@ -1,5 +1,19 @@
-About SAC:
+# SAC-Anti-Debug
 
-SAC is made by Me a.k.a Sagaan, who's goal in mind was to allow small developers access to an Anti Cheat without paying a sum of money to a top tier AC company such as Battleye or EAC. Make sure to Credit Me as he has put in alot of time and effort into making SAC. If you like to donate to show your support, go ahead. Paypal: anthonywong35712@gmail.com
+[[My Website]](https://theherobrine9.wixsite.com/website/)
 
-Thank You!
+# Important
+This is a project which i made quite a long time ago to somewhat "support" my SAC development. You can use this for anything else you like, however make sure to use other methods as well, things like Packers and Code obfuscation. With help from packers and obfuscations, this is quite useful and helpful.
+
+# TO-DO
+- Make it more secure
+
+# Helpers
+- https://github.com/LordNoteworthy/al-khaser/tree/master/al-khaser/Anti%20Debug
+
+# Notes
+
+Make sure to update some stuff and make it more secure. Also, this is only for 32 bit.
+
+
+
